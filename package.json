@@ -1,0 +1,42 @@
+{
+    "name": "@vueform/laravel-vue2-starter",
+    "version": "1.0.0",
+    "private": false,
+    "description": "Vueform Laravel + Vue 2 + TailwindCSS 3 Boilerplate",
+    "licence": "MIT",
+    "author": "Adam Berecz <adam@vueform.com>",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vueform/laravel-vue2-starter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vueform/laravel-vue2-starter/issues"
+    },
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.2",
+        "axios": "^0.21.4",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.21",
+        "postcss": "^8.4.6",
+        "tailwindcss": "^3.0.18",
+        "vue-loader": "^15.9.8",
+        "vue-template-compiler": "^2.6.14"
+    },
+    "dependencies": {
+        "@vue/composition-api": "^1.4.5",
+        "@vueform/vueform": "file:packages/vueform",
+        "moment": "^2.29.1",
+        "node-sass": "^6.0.1",
+        "sass-loader": "^10.2.1",
+        "vue": "^2.6.14"
+    }
+}
