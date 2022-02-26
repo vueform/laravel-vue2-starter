@@ -2,7 +2,7 @@
     "name": "@vueform/laravel-vue2-starter",
     "version": "1.0.0",
     "private": false,
-    "description": "Vueform Laravel + Vue 2 + TailwindCSS 3 Boilerplate",
+    "description": "Vueform Laravel + Vue 2 + Tailwind CSS 3 Boilerplate",
     "licence": "MIT",
     "author": "Adam Berecz <adam@vueform.com>",
     "repository": {
