@@ -33,7 +33,7 @@
     },
     "dependencies": {
         "@vue/composition-api": "^1.4.5",
-        "@vueform/vueform": "file:packages/vueform",
+        "@vueform/vueform": "^1.2.6",
         "moment": "^2.29.1",
         "node-sass": "^6.0.1",
         "sass-loader": "^10.2.1",
