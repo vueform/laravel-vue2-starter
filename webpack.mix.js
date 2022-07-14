@@ -6,11 +6,4 @@ mix.js('resources/js/app.js', 'public/js')
     require("tailwindcss"),
   ])
   .vue()
-  .webpackConfig({
-    resolve: {
-      alias: {
-        'composition-api': path.resolve(__dirname, 'node_modules/@vue/composition-api/dist/vue-composition-api.mjs')
-      },
-    },
-  })
 ;

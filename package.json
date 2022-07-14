@@ -32,7 +32,6 @@
         "vue-template-compiler": "^2.6.14"
     },
     "dependencies": {
-        "@vue/composition-api": "^1.4.5",
         "@vueform/vueform": "^1.2.6",
         "moment": "^2.29.1",
         "node-sass": "^6.0.1",
